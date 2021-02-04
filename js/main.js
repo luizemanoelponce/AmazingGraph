@@ -3,7 +3,7 @@ function responsivo(){
 
     if (menu.className === "navbar") {
 
-        menu.className = " responsivo";
+        menu.className += " responsivo";
 
     } else {
 
